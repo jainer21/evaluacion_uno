@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="198.76596mm"
+   height="84.769447mm"
+   viewBox="0 0 198.76596 84.769447"
+   version="1.1"
+   id="svg42"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Logo.svg">
+  <defs
+     id="defs36">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath45">
+      <g
+         inkscape:label="Clip"
+         id="use47">
+        <g
+           transform="translate(-2.8357339,-3.9700275)"
+           id="g26">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.68975067px;line-height:1.25;font-family:Forte;-inkscape-font-specification:'Forte, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1.44223893"
+             x="36.862663"
+             y="63.699638"
+             id="text22"
+             transform="scale(0.97348783,1.0272342)"><tspan
+               sodipodi:role="line"
+               id="tspan20"
+               x="36.862663"
+               y="63.699638"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.68975067px;font-family:Forte;-inkscape-font-specification:'Forte, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000080;stroke-width:1.44223893">JJMO</tspan></text>
+          <ellipse
+             style="opacity:0.13999999;fill:#0000ff;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1;paint-order:stroke fill markers"
+             id="ellipse24"
+             cx="108.32503"
+             cy="48.873276"
+             rx="99.250687"
+             ry="42.252434" />
+        </g>
+      </g>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="228.47785"
+     inkscape:cy="-228.37719"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata39">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5.6944029,-3.6390853)">
+    <g
+       id="g38"
+       transform="translate(-2.2678571,-52.916667)">
+      <g
+         id="g47"
+         transform="translate(-0.9797892,50.067202)">
+        <text
+           transform="scale(0.97348783,1.0272342)"
+           id="text38"
+           y="63.699638"
+           x="36.862663"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.68975067px;line-height:1.25;font-family:Forte;-inkscape-font-specification:'Forte, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1.44223893"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.68975067px;font-family:Forte;-inkscape-font-specification:'Forte, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000080;stroke-width:1.44223893"
+             y="63.699638"
+             x="36.862663"
+             id="tspan36"
+             sodipodi:role="line">JJMO</tspan></text>
+        <ellipse
+           ry="42.252434"
+           rx="99.250687"
+           cy="48.873276"
+           cx="108.32503"
+           id="path35"
+           style="opacity:0.13999999;fill:#0000ff;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1;paint-order:stroke fill markers" />
+      </g>
+    </g>
+  </g>
+</svg>
